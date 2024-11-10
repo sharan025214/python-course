@@ -1,0 +1,5 @@
+print('welcome to python')
+print(1)
+print("welcome to python " ,1)
+print('\n my name is sharan')
+print ("hello codingal",end="@codingal")
